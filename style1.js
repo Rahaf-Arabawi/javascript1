@@ -23,8 +23,11 @@ document.write('Discount=')
 document.write(m-(m)*0.30  + "<br>")
 
 var age=20;
+document.write('Age limit=')
 document.write((age > 18 && age < 30 ) + "<br>")
 
+document.write('Exponential=')
 document.write( Math . pow(2,3) + "<br>")
 
+document.write('Remainder=')
 document.write(10 % 4)
